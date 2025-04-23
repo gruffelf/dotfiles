@@ -17,9 +17,8 @@ vim.opt.relativenumber = true
 vim.o.tabstop = 2
 vim.o.shiftwidth = 2
 
--- Global Clipboard Commands gy, gp
-vim.keymap.set({'n', 'x', 'o'}, 'gy', '"+y', {desc = 'Copy to clipboard'})
-vim.keymap.set({'n', 'x', 'o'}, 'gp', '"+p', {desc = 'Paste clipboard text'})
+-- Global clipboard
+vim.opt.clipboard = "unnamedplus"
 
 -- onedarkpro theme
 require("onedarkpro").setup({
