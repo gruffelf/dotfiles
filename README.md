@@ -9,7 +9,7 @@ grim
 hyprland 
 hyprpaper 
 kitty 
-neovim-vim-plug
+neovim(vim plug)
 noto-fonts
 pavucontrol
 pipewire
@@ -20,4 +20,4 @@ wl-clipboard
 wofi
 yazi
 zen-browser-bin
-zsh-zim
+zsh(zim)
