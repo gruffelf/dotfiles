@@ -1,5 +1,10 @@
 # gruffelf's Arch Linux Dotfiles
 Arch Linux with Hyprland
+
+## Acknowledgments
+wofi config - https://github.com/playXE/dotfiles/tree/main/wofi  
+wallpaper - https://www.reddit.com/r/wallpaper/comments/x63jcw/zen_3840x2160/
+
 ## Requirements
 
 cliphist
@@ -25,12 +30,15 @@ zsh(zim)
 
 ## Screenshots
 ### Application used
-Kitty, Neovim, spotify_player, Zen Browser, wofi, clock-tui, yazi, btop, fastfetch, eza and waybar
+Kitty, Neovim, spotify_player, Zen Browser, wofi, clock-tui, yazi, btop, fastfetch, eza, lazygit and waybar
 
 #### Latest Version
 ![image](https://github.com/user-attachments/assets/fb14dbe5-b42f-4427-bec5-512c3ed0243d)
 ![image](https://github.com/user-attachments/assets/126387c0-eaa0-4cc2-b24a-bac486ffdda8)
 ![image](https://github.com/user-attachments/assets/5b9b0569-1b43-4b16-837a-ace21c2a8549)
+![image](https://github.com/user-attachments/assets/dbca4c2e-ef23-4132-ba51-5c79361f7984)
+
+![image](https://github.com/user-attachments/assets/5c793cd5-2e68-43e4-8761-7a0585b10448)
 
 
 #### Old Versions
