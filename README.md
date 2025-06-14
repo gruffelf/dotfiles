@@ -27,6 +27,10 @@ zsh(zim)
 ### Application used
 Kitty, Neovim, spotify_player, Zen Browser, clock-tui, fastfetch, eza and waybar
 
+#### Latest Version
+![image](https://github.com/user-attachments/assets/fb14dbe5-b42f-4427-bec5-512c3ed0243d)
+
+#### Old Versions
 ![image](https://github.com/user-attachments/assets/7579d478-3a72-4b73-b4d8-29c3f78ab521)
 ![image](https://github.com/user-attachments/assets/44820dde-f5bd-4de7-afe5-9a209ea292e6)
 ![image](https://github.com/user-attachments/assets/5596b5bb-7816-40ad-bb1c-aea5624c7042)
