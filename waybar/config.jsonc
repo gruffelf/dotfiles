@@ -35,7 +35,7 @@
   // },
   "custom/updatebutton": {
     "format": "",
-    "on-click": "kitty --detach ~/Documents/scripts/update.sh"
+    "on-click": "kitty --detach ~/.config/scripts/update.sh"
   },
   "hyprland/window": {
     "format": "{:.30}",
