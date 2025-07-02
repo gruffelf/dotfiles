@@ -9,4 +9,12 @@ fi
 
 yay -Sua
 
+echo
+echo "DO NOT DELETE AUR FILES"
+echo
 yay -Sc
+
+echo
+echo "DO NOT DELETE AUR FILES"
+echo
+yay -Scc
