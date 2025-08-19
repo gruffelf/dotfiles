@@ -2,7 +2,6 @@ term=kitty
 location=top
 yoffset=180
 width=16%
-lines=11
 
 prompt=
 show=drun

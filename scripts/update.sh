@@ -1,5 +1,6 @@
 #!/bin/bash
-
+figlet "Updating  system"
+echo
 sudo pacman -Syu
 
 ORPHANS=$(pacman -Qtdq)
@@ -10,11 +11,11 @@ fi
 yay -Sua
 
 echo
-echo "DO NOT DELETE AUR FILES"
+figlet "DO NOT DELETE AUR FILES"
 echo
 yay -Sc
 
 echo
-echo "DO NOT DELETE AUR FILES"
+figlet "DO NOT DELETE AUR FILES"
 echo
 yay -Scc
